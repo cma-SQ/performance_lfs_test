@@ -1,2 +1,4 @@
 performance/sysbench filter=lfs diff=lfs merge=lfs -text
 sysbench filter=lfs diff=lfs merge=lfs -text
+performance/apq8039_force_perf.sh filter=lfs diff=lfs merge=lfs -text
+performance/sdm660_disable_therm_force_perf.sh filter=lfs diff=lfs merge=lfs -text
