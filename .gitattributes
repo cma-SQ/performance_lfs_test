@@ -1,1 +1,2 @@
 performance/sysbench filter=lfs diff=lfs merge=lfs -text
+sysbench filter=lfs diff=lfs merge=lfs -text
